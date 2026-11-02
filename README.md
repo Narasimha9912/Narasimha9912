@@ -1,50 +1,68 @@
-<h1 align="left">Hey 👋 Im Yoganarasimha</h1>
+Hi there, I’m Yoganarasimha 👋
 
-###
+Aspiring Software Developer | Java Developer
 
-<p align="left">Present pursuing b.tech final year and I'm interested in java .</p>
+Welcome to my GitHub profile! I’m a Computer Science graduate passionate about software development, problem-solving, and learning new technologies.
 
-###
+👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+* 🎓 Computer Science Graduate
+* ☕ Interested in Java Development
+* 💻 Learning Full Stack Development
+* 🧠 Improving Data Structures and Algorithms
+* 🚀 Building practical software projects
+* 🎯 Looking for opportunities to grow as a Software Developer
 
-###
+🛠️ Technical Skills
 
-<h3 align="left">📚 I'm currently learning java</h3>
+Programming Languages
 
-###
+* Java
+* JavaScript
 
-<h2 align="left">I code with</h2>
+Web Technologies
 
-###
+* HTML
+* CSS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+Database
 
-###
+* MySQL
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narasimha9912&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Narasimha9912&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Tools
 
-###
+* Visual Studio Code
+* Git
+* GitHub
+* Maven
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/yenkugari-yoganarasimha-705b0336b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+📌 My Projects
 
-###
+1. Student Record Management System
 
-<div align="right">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&s"  />
-</div>
+A Java-based application for managing student information.
 
-###
+Technologies: Java, JDBC, MySQL, Maven
+
+🔗 View Project
+
+🌱 Currently Learning
+
+* Advanced Java
+* Data Structures and Algorithms
+* Full Stack Development
+* Problem Solving
+
+🎯 My Goal
+
+To become a skilled Software Developer by continuously learning, building projects, and improving my technical skills.
+
+📫 Connect With Me
+
+* GitHub: Narasimha9912
+
+⸻
+
+⭐ Thanks for visiting my profile!
+
+Keep Learning | Keep Building | Keep Growing 🚀
