@@ -75,3 +75,9 @@ To become a skilled Software Developer by continuously learning, building projec
 ⭐ Thanks for visiting my profile!
 
 Keep Learning | Keep Building | Keep Growing 🚀
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narasimha9912&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha9912&layout=compact&theme=tokyonight)
