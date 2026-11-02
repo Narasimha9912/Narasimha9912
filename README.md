@@ -78,10 +78,8 @@ Keep Learning | Keep Building | Keep Growing 🚀
 
 ## 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Narasimha9912&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narasimha9912&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha9912&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Narasimha9912&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Narasimha9912&theme=tokyonight)
